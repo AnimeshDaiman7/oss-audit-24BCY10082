@@ -1,0 +1,3 @@
+ERROR: System failure
+INFO: All good
+ERROR: Disk full
