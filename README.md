@@ -1,6 +1,6 @@
 # Open Source Software Audit Project
 
-## 👤 Student Details
+##  Student Details
 
 * **Name:** Animesh Daiman
 * **Roll Number:** 24BCY10082
@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Chosen Software
+##  Chosen Software
 
 **Git**
 
@@ -16,7 +16,7 @@ Git is a distributed version control system created by Linus Torvalds. It is wid
 
 ---
 
-## 💻 Project Overview
+##  Project Overview
 
 This project focuses on analyzing Git as an open-source software and understanding its origin, license, and role in the open-source ecosystem. Along with the theoretical analysis, five shell scripts have been developed to demonstrate practical Linux skills.
 
@@ -24,9 +24,9 @@ These scripts perform tasks such as system information display, package inspecti
 
 ---
 
-## 📜 Scripts Description
+##  Scripts Description
 
-### 🔹 Script 1 — System Identity Report
+###  Script 1 — System Identity Report
 
 This script displays basic system information such as:
 
@@ -41,7 +41,7 @@ It uses variables and command substitution to present the output in a structured
 
 ---
 
-### 🔹 Script 2 — FOSS Package Inspector
+###  Script 2 — FOSS Package Inspector
 
 This script checks whether Git is installed on the system.
 If installed, it displays:
@@ -55,7 +55,7 @@ It also uses a case statement to print a short description of the software.
 
 ---
 
-### 🔹 Script 3 — Disk and Permission Auditor
+###  Script 3 — Disk and Permission Auditor
 
 This script analyzes important system directories such as `/etc`, `/var/log`, `/home`, `/usr/bin`, and `/tmp`.
 It displays:
@@ -68,7 +68,7 @@ It also checks whether the Git binary exists in `/usr/bin/git`.
 
 ---
 
-### 🔹 Script 4 — Log File Analyzer
+###  Script 4 — Log File Analyzer
 
 This script reads a log file and counts how many lines contain a specific keyword (default: "error").
 It:
@@ -80,7 +80,7 @@ It:
 
 ---
 
-### 🔹 Script 5 — Open Source Manifesto Generator
+###  Script 5 — Open Source Manifesto Generator
 
 This script generates a personalized open-source manifesto.
 It:
@@ -92,7 +92,7 @@ It:
 
 ---
 
-## ▶️ How to Run the Scripts
+##  How to Run the Scripts
 
 ### 1. Open terminal and navigate to the project folder:
 
@@ -140,7 +140,7 @@ chmod +x *.sh
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 * Linux system (Fedora / Ubuntu)
 * Bash shell
@@ -148,7 +148,7 @@ chmod +x *.sh
 
 ---
 
-## 📌 Notes
+##  Notes
 
 * All scripts are designed to run on a Linux system.
 * Proper comments are included in each script.
