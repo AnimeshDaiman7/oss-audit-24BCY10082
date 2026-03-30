@@ -6,7 +6,6 @@
 * **Roll Number:** 24BCY10082
 * **Course:** Open Source Software
 
----
 
 ##  Chosen Software
 
@@ -14,7 +13,6 @@
 
 Git is a distributed version control system created by Linus Torvalds. It is widely used for tracking changes in source code and enabling collaboration among developers. Git allows multiple users to work on the same project efficiently using features like branching and merging.
 
----
 
 ##  Project Overview
 
@@ -22,7 +20,6 @@ This project focuses on analyzing Git as an open-source software and understandi
 
 These scripts perform tasks such as system information display, package inspection, directory auditing, log file analysis, and generating user-based output. All scripts are executed in a Linux environment and follow standard shell scripting practices.
 
----
 
 ##  Scripts Description
 
@@ -39,7 +36,6 @@ This script displays basic system information such as:
 
 It uses variables and command substitution to present the output in a structured format.
 
----
 
 ###  Script 2 — FOSS Package Inspector
 
@@ -53,7 +49,6 @@ If installed, it displays:
 
 It also uses a case statement to print a short description of the software.
 
----
 
 ###  Script 3 — Disk and Permission Auditor
 
@@ -66,7 +61,6 @@ It displays:
 
 It also checks whether the Git binary exists in `/usr/bin/git`.
 
----
 
 ###  Script 4 — Log File Analyzer
 
@@ -78,7 +72,6 @@ It:
 * Displays the count of matching lines
 * Shows the last 5 matching lines
 
----
 
 ###  Script 5 — Open Source Manifesto Generator
 
@@ -90,7 +83,6 @@ It:
 * Creates a paragraph using string concatenation
 * Saves the output to a `.txt` file
 
----
 
 ##  How to Run the Scripts
 
@@ -138,7 +130,6 @@ chmod +x *.sh
 ./script5.sh
 ```
 
----
 
 ##  Requirements
 
@@ -146,7 +137,6 @@ chmod +x *.sh
 * Bash shell
 * Git installed
 
----
 
 ##  Notes
 
