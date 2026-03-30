@@ -1,6 +1,6 @@
 # Open Source Software Audit Project
 
-##  Student Details
+ Student Details
 
 * **Name:** Animesh Daiman
 * **Roll Number:** 24BCY10082
